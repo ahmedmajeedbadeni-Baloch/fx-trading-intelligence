@@ -1,0 +1,76 @@
+{
+  "report_date": "2025-11-26 18:31:54",
+  "data_range": {
+    "start": "2020-03-31",
+    "end": "2025-09-30",
+    "total_records": 69
+  },
+  "trends": {
+    "CAD": {
+      "latest_rate": 1.392,
+      "change_pct": 1.8288222384784134,
+      "actual_days": 92,
+      "direction": "weakened"
+    },
+    "EUR": {
+      "latest_rate": 0.852,
+      "change_pct": -0.11723329425556868,
+      "actual_days": 92,
+      "direction": "strengthened"
+    },
+    "GBP": {
+      "latest_rate": 0.744,
+      "change_pct": 1.917808219178084,
+      "actual_days": 92,
+      "direction": "weakened"
+    }
+  },
+  "volatility": {
+    "CAD": {
+      "current": 9.150590156241428,
+      "average": 5.423838362206064
+    },
+    "EUR": {
+      "current": 13.048031918084579,
+      "average": 8.855217719744827
+    },
+    "GBP": {
+      "current": 10.989491656698272,
+      "average": 7.402304284800843
+    }
+  },
+  "year_over_year": {
+    "CAD": {
+      "current_year": "2025",
+      "prev_year": "2024",
+      "yoy_change": 1.3961922030825016
+    },
+    "EUR": {
+      "current_year": "2025",
+      "prev_year": "2024",
+      "yoy_change": -5.669178327951199
+    },
+    "GBP": {
+      "current_year": "2025",
+      "prev_year": "2024",
+      "yoy_change": -4.201322243548736
+    }
+  },
+  "correlations": {
+    "CAD": {
+      "CAD": 1.0,
+      "EUR": 0.452577318389434,
+      "GBP": 0.47014097406717326
+    },
+    "EUR": {
+      "CAD": 0.452577318389434,
+      "EUR": 1.0,
+      "GBP": 0.7869499535738108
+    },
+    "GBP": {
+      "CAD": 0.47014097406717326,
+      "EUR": 0.7869499535738108,
+      "GBP": 1.0
+    }
+  }
+}
